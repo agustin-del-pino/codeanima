@@ -1,0 +1,9 @@
+{
+  "name": "codeanima",
+  "version": "1.0.0",
+  "description": "Create a typewriting animation",
+  "main": "codeanima.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
